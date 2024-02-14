@@ -21,7 +21,7 @@ yesBtn.addEventListener('click', function() {
     yesBtn.style.fontSize = 20 + 'px';
     noBtn.style.fontSize = 20 + 'px';
     noBtn.textContent = '<3';
-    yesBtn.textContent = 'yayyyyy';
+    yesBtn.textContent = 'yayyy';
     if (tf){
         title.textContent = "YES! FINALLY"
         noBtn.textContent = 'hehe';
