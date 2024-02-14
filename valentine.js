@@ -3,7 +3,7 @@ const noBtn = document.getElementById('noBtn');
 const title = document.getElementById('title');
 const gif = document.getElementById('gif');
 const gif2 = new Image();
-gif2.src = 'https://s1.ezgif.com/tmp/ezgif-1-a88b8799ca.gif';
+gif2.src = 'snoopy2.gif';
 
 let width = 100;
 let height = 50;
@@ -27,7 +27,7 @@ yesBtn.addEventListener('click', function() {
         noBtn.textContent = 'hehe';
         yesBtn.textContent = '>:)';
     }
-    gif.src = 'https://s1.ezgif.com/tmp/ezgif-1-a88b8799ca.gif';
+    gif.src = 'snoopy2.gif';
     gif.style.height = 300 + 'px';
     gif.style.width = 220 + 'px';
 });
