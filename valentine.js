@@ -2,6 +2,8 @@ const yesBtn = document.getElementById('yesBtn');
 const noBtn = document.getElementById('noBtn');
 const title = document.getElementById('title');
 const gif = document.getElementById('gif');
+const gif2 = new Image();
+gif2.src = 'https://s1.ezgif.com/tmp/ezgif-1-a88b8799ca.gif';
 
 let width = 100;
 let height = 50;
